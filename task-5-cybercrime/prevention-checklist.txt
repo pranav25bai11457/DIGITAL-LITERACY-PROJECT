@@ -122,6 +122,6 @@
   Sources: National Cyber Crime Portal (cybercrime.gov.in),
   CERT-In, and RBI consumer guidance (2024–2025).
 
-  Prepared by a Digital Ambassador | Module 5 | Task 5 – Part B
+  Prepared by Pranav Dutt | Module 5 | Task 5 – Part B
 
 ================================================================
