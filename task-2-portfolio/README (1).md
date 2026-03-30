@@ -29,4 +29,4 @@ Because I want to build things that matter. AI and ML feel like the most powerfu
 
 ---
 
-*Still early days — but that's kind of the point.*
+
