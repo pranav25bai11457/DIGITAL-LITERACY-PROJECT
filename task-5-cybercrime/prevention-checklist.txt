@@ -1,0 +1,127 @@
+================================================================
+  STAY SAFE ONLINE — Prevention Checklist for College Students
+  Cybercrime Awareness | Module 5, Task 5 – Part B
+================================================================
+
+  Report cybercrime: cybercrime.gov.in  |  Helpline: 1930
+
+  Check each item. If you can tick all of these, you're safer
+  than most students you know.
+
+================================================================
+  💳  UPI & FINANCIAL SAFETY  ★ PRIORITY TIPS
+================================================================
+
+☐  1.  Never scan a QR code to "receive" money — that's not
+        how UPI works.
+
+        QR codes and payment links are used to SEND money, not
+        collect it. If a buyer asks you to scan a code so they
+        can pay you — stop. You're about to pay them. Receiving
+        money only needs your UPI ID or phone number, nothing
+        else.
+
+        ★ Financial/UPI Safety Tip
+
+☐  2.  Always verify the credit is in your BANK — not just in
+        a screenshot or a notification.
+
+        Before giving away any product or service, open your
+        bank app and confirm the money is actually there.
+        WhatsApp payment screenshots can be faked in minutes.
+        A notification on your screen is NOT the same as money
+        in your account. When in doubt, wait and check your
+        statement.
+
+        ★ Financial/UPI Safety Tip
+
+================================================================
+  🔒  ACCOUNT & DEVICE SECURITY
+================================================================
+
+☐  3.  Use a different password for every important account.
+
+        When one service gets hacked, attackers automatically
+        try that password on Gmail, Instagram, and your bank
+        app. Use a free password manager like Bitwarden or
+        Google Password Manager — you only need to remember
+        one master password.
+
+☐  4.  Turn on two-factor authentication (2FA) on Gmail,
+        Instagram, and your bank app.
+
+        This adds a one-time code step before anyone can log
+        in — even if they already have your password. Takes
+        2 minutes: Settings → Security → Two-Factor Auth.
+
+☐  5.  Check which apps have access to your camera,
+        microphone, and location.
+
+        Settings → Privacy → Permissions. A torchlight app
+        with microphone access is a red flag. Revoke anything
+        that doesn't make sense for what the app does.
+
+================================================================
+  🎣  PHISHING & SOCIAL ENGINEERING
+================================================================
+
+☐  6.  Before clicking any link in WhatsApp or email,
+        look at the actual URL.
+
+        Fraudsters build sites like "sbi-help.in" or
+        "hdfc-customercare.net" that look real. The actual
+        SBI website is sbi.co.in. On mobile, hold the link
+        (don't tap) to preview the address first.
+
+☐  7.  A caller knowing your name and bank doesn't make
+        them legitimate.
+
+        Data breaches have made personal info easy to buy.
+        Real bank employees NEVER ask for your OTP, PIN, or
+        full card number over a call. Hang up and ring the
+        official bank number yourself.
+
+================================================================
+  🌐  ONLINE BEHAVIOUR & PRIVACY
+================================================================
+
+☐  8.  Keep your social media profiles private — especially
+        if your phone number is visible anywhere.
+
+        A public profile can reveal your college, city, and
+        daily routine — enough for a convincing impersonation
+        call. Remove your phone number from public view on
+        all platforms.
+
+☐  9.  Don't post photos of tickets, ID cards, or transaction
+        screenshots publicly.
+
+        Boarding pass barcodes contain your booking reference.
+        Bank screenshots show your UPI ID or account number.
+        Share these only with people who genuinely need them,
+        over private chat.
+
+================================================================
+  📢  KNOW HOW TO REPORT
+================================================================
+
+☐  10. Save the cybercrime helpline number RIGHT NOW —
+        before you ever need it.
+
+        National Cyber Crime Portal : cybercrime.gov.in
+        Helpline                    : 1930  (24×7)
+
+        If you or someone you know is defrauded online, call
+        1930 immediately. The faster you report, the better
+        the chance of freezing the transaction before the
+        money moves. You can also file a complaint fully
+        online — no police station visit required.
+
+================================================================
+
+  Sources: National Cyber Crime Portal (cybercrime.gov.in),
+  CERT-In, and RBI consumer guidance (2024–2025).
+
+  Prepared by a Digital Ambassador | Module 5 | Task 5 – Part B
+
+================================================================
